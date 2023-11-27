@@ -1,1 +1,9 @@
-# gerencia-de-projetos
+# Envolvimento
+
+| Origem                                  | Insumo                                    | Destino                                                  | Resultado                                                    | Meio                                                        |
+| --------------------------------------- | ----------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------- |
+| Equipe de Desenvolvimento               | Requisitos do Cliente                     | Desenvolvedores, Cientistas de Dados, Gerente de Projeto | Implementação efetiva do sistema Aurify com base nos requisitos do cliente | Reuniões regulares, documentação de requisitos              |
+| Contratantes                            | Feedback e Aprovação                      | Equipe de Desenvolvimento                                | Aprovação e validação das entregas do projeto pelos contratantes | Revisões regulares, reuniões de aprovação                   |
+| Equipe de Desenvolvimento               | Dados Espectroscópicos, Algoritmos        | Cientista de Dados                                       | Desenvolvimento de algoritmos de marcação molecular e análise de dados espectroscópicos | Colaboração em reuniões técnicas, compartilhamento de dados |
+| Cientista de Dados                      | Resultados da Marcação Molecular          | Desenvolvedor Blockchain                                 | Integração dos resultados na blockchain para criação de identificadores únicos | Colaboração em testes e validações                          |
+| Especialista em Segurança da Informação | Requisitos de Segurança, Vulnerabilidades | Equipe de Desenvolvimento, Gerente de Projeto            | Implementação e monitoramento contínuo das medidas de segurança | Análise de vulnerabilidades, auditorias regulares           |
