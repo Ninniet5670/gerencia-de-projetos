@@ -9,27 +9,27 @@
 | **CE (Controles Externos)**             | 68                   | 62                 | 38                    |
 
 1. **EE (Entradas Externas):**
-   - Simples: 120×3==360
-   - Média: 120×4=480
-   - Complexa: 120×6=720
+   - Simples: 46×3==
+   - Média: 46×4=
+   - Complexa: 28×6=
 2. **CE (Controles Externos):**
-   - Simples: 168×3=504
-   - Média: 168×4=672
-   - Complexa: 168×6=1008
+   - Simples: 68×3=
+   - Média: 62×4=
+   - Complexa: 38×6=
 3. **SE (Saídas Externas):**
-   - Simples: 103×4=412
-   - Média: 103×5=515
-   - Complexa: 103×7=721
+   - Simples: 39×4=
+   - Média: 40×5=
+   - Complexa: 34×7=
 4. **ALI (Arquivos Lógicos Internos):**
-   - Simples: 39×7=273
-   - Média: 39×10=390
-   - Complexa: 39×15=585
+   - Simples: 8×7=
+   - Média: 7×10=
+   - Complexa: 4×15=
 5. **AIE (Arquivos de Interface Externa):**
-   - Simples: 19×5=95
-   - Média: 19×7=133
-   - Complexa: 19×10=190
+   - Simples: 15×5=
+   - Média: 15×7=
+   - Complexa: 9×10=
 
-Total=6808
+Total=x
 
 
 
