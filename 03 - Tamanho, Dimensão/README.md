@@ -1,38 +1,5 @@
 # Tamanho, Dimensão
 
-| Tipo                                    | Complexidade Simples | Complexidade Média | Complexidade Complexa |
-| --------------------------------------- | -------------------- | ------------------ | --------------------- |
-| **ALI (Arquivos Lógicos Internos)**     | 15                   | 15                 | 9                     |
-| **AIE (Arquivos de Interface Externa)** | 8                    | 7                  | 4                     |
-| **EE (Entradas Externas)**              | 46                   | 46                 | 28                    |
-| **SE (Saídas Externas)**                | 39                   | 40                 | 24                    |
-| **CE (Controles Externos)**             | 68                   | 62                 | 38                    |
-
-1. **EE (Entradas Externas):**
-   - Simples: 46×3==
-   - Média: 46×4=
-   - Complexa: 28×6=
-2. **CE (Controles Externos):**
-   - Simples: 68×3=
-   - Média: 62×4=
-   - Complexa: 38×6=
-3. **SE (Saídas Externas):**
-   - Simples: 39×4=
-   - Média: 40×5=
-   - Complexa: 34×7=
-4. **ALI (Arquivos Lógicos Internos):**
-   - Simples: 8×7=
-   - Média: 7×10=
-   - Complexa: 4×15=
-5. **AIE (Arquivos de Interface Externa):**
-   - Simples: 15×5=
-   - Média: 15×7=
-   - Complexa: 9×10=
-
-Total=x
-
-
-
 ## Tabela das 14 Perguntas
 
 0 - Nenhuma influência
@@ -74,3 +41,61 @@ Total=x
 **FACILIDADE DE MUDANÇAS**: 4 - Influência significante (A facilidade de implementar mudanças é vital para acompanhar regulamentações em constante evolução e requisitos do cliente.)
 
 **MÚLTIPLOS LOCAIS**: 4 - Influência significante (A capacidade de operar em múltiplos locais é crucial para atender a diferentes contextos de mineração de ouro.)
+
+
+
+Total = 53
+
+
+
+## Contagem de Pontos por Função
+
+| Tipo                                    | Complexidade Simples | Complexidade Média | Complexidade Complexa |
+| --------------------------------------- | -------------------- | ------------------ | --------------------- |
+| **ALI (Arquivos Lógicos Internos)**     | 15                   | 15                 | 9                     |
+| **AIE (Arquivos de Interface Externa)** | 8                    | 7                  | 4                     |
+| **EE (Entradas Externas)**              | 46                   | 46                 | 28                    |
+| **SE (Saídas Externas)**                | 39                   | 40                 | 24                    |
+| **CE (Controles Externos)**             | 68                   | 62                 | 38                    |
+
+1. **EE (Entradas Externas):**
+   - Simples: 46×3 = 138
+   - Média: 46×4 = 184
+   - Complexa: 28×6 = 168
+2. **CE (Controles Externos):**
+   - Simples: 68×3 = 204
+   - Média: 62×4 = 248
+   - Complexa: 38×6 = 228
+3. **SE (Saídas Externas):**
+   - Simples: 39×4 = 156
+   - Média: 40×5 = 200
+   - Complexa: 34×7 = 238
+4. **ALI (Arquivos Lógicos Internos):**
+   - Simples: 8×7 = 56
+   - Média: 7×10 = 70
+   - Complexa: 4×15 = 60
+5. **AIE (Arquivos de Interface Externa):**
+   - Simples: 15×5 = 75
+   - Média: 15×7 = 105
+   - Complexa: 9×10 = 90
+
+Total = 1950PF
+
+
+
+## Fator de Ajuste
+
+Fator de ajuste:
+
+FA = (NI * 0,01) + 0,65
+
+FA = (53* 0,01) + 0,65 = 1,18
+
+
+
+Ajustar quantidade de ponto de função:
+
+PF = NA * FA = PF
+
+PF = 1950* 1,18 = 2301 (pontos de função ajustado)
+
