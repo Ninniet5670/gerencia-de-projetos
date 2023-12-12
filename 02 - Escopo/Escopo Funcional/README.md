@@ -4,8 +4,9 @@ https://docs.google.com/spreadsheets/d/143zpSglVv-5L89tLnSFPqRM-nnDKwOpnVzyTcuXS
 
 
 
-| Login empresa                                |
+| Funcionalidades                              |
 | -------------------------------------------- |
+| Login empresa                                |
 | Cadastrar empresa                            |
 | Criar cadeia de objetos                      |
 | Remover cadeia                               |
